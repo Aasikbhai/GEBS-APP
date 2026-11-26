@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse",
+  "description": "School portal for students, parents, and teachers featuring glass popup UI, bill & attendance SMS alerts with audible sound SMS, voice SMS complaint box, leave & salary inquiries, and real-time exam schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

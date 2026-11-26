@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CampusPulse</string>
+    <string name="app_tagline">Smart School, Parent &amp; Teacher Connect</string>
+    <string name="login_title">Welcome to CampusPulse</string>
+    <string name="login_subtitle">Sign in using your Name &amp; Registration No.</string>
+    <string name="username_label">Full Name (Username)</string>
+    <string name="password_label">Registration No. (Password)</string>
+    <string name="sign_in_button">Sign In to Portal</string>
+    <string name="logout_button">Switch Account</string>
+    <string name="error_invalid_credentials">Name or Registration No. did not match. Please verify and try again.</string>
+    <string name="voice_studio_title">Clear Voice &amp; Language</string>
+    <string name="voice_studio_subtitle">Auto-detects English, Hindi &amp; Nepali or choose your preferred voice</string>
+    <string name="cd_campus_banner">CampusPulse frosted glass school illustration</string>
+    <string name="cd_student_avatar">Student profile avatar</string>
+    <string name="cd_teacher_avatar">Teacher profile avatar</string>
+    <string name="cd_play_sound_sms">Play audible sound SMS</string>
+    <string name="cd_stop_sound_sms">Stop audible sound SMS</string>
+    <string name="cd_record_voice">Record voice SMS</string>
+    <string name="cd_close_popup">Close popup dialog</string>
+</resources>

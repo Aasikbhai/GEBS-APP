@@ -1,0 +1,8 @@
+GEBS MANAGMENT & EXAM  -  connecting PC 1, PC 2 and the School App
+
+1) Build the installer:  double-click BUILD-SETUP-EXE.bat  (allow Administrator).  Installer = release\GEBS MANAGMENT & EXAM Setup.exe
+2) In the software: Settings > "PC 1 <-> PC 2 Data Transfer" shows this PC's address (example 192.168.1.20).
+3) Add students (Full Name + Registration No.) and teachers (Full Name + Registration No.) in the software.
+   The Registration No. is the School App password.  (Teacher: if Registration No. is empty, the Employee ID is used.)
+4) School App: type the PC address on the login screen, then sign in with Full Name + Registration No.
+5) Keep the software open on the PC. Windows Firewall: click "Allow access" (Private network) the first time.
